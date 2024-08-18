@@ -24,3 +24,24 @@ The application is divided into five parts:
 3. Connecting to MongoDB using PyMongo to perform CRUD Operations
 4. UI development using React.js
 5. Designing an analytical query and visualization
+
+The Application has the following architecture and code structure:
+
+![image](https://github.com/user-attachments/assets/3fb89e76-5c48-410f-9158-7591ed7277f0)
+
+Our web page looks like this:
+
+![image](https://github.com/user-attachments/assets/3a85bb1a-00d8-488d-8f28-aa91a1de2784)
+
+Results:
+1. The above bar graph shows that Soft drinks has the highest calorie content.Followed by energy drinks and coffee
+
+![image](https://github.com/user-attachments/assets/6cbd78ea-0fae-476c-a5fc-8831bd3dfb9c)
+
+2. The above pie chart shows that coffee has the highest caffeine content,followed by energy drinks and shots. Water has the Least caffeine content.
+
+![image](https://github.com/user-attachments/assets/bd5b7eba-9f8e-4bff-9e0a-533ef92ed1bb)
+
+
+
+
