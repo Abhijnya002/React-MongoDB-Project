@@ -1,4 +1,4 @@
-# Project__React-Flask-MongoDB
+# React-Flask-MongoDB Project
 
 It is a full-stack web application that is a basic Beverage Management System using MongoDB, React.js and Flask with following features:
 1. Add Drink
